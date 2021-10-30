@@ -24,3 +24,7 @@ x3readerExcel.py work only Linux
 not flask 
 <br>
 xl3-reader-with-password.py work only IOS or Windows
+
+<br>
+use this files for test 
+https://github.com/php-require/xl3-reader-with-password/tree/master/filesToTest
